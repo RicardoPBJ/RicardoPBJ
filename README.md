@@ -5,7 +5,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-pereira-dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_NOME_DE_USUARIO_GITHUB)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RicardPBJ)
 
 ### Olá! 👋
 
@@ -28,3 +28,38 @@ Buscando sempre novos desafios e aprofundar meus conhecimentos, em 2025 iniciei 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![SQL](https://img.shields.io/badge/SQL-4A8F98?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 [![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=rest-api&logoColor=white)](https://restfulapi.net/)
+
+### Projetos em Destaque
+
+#### [Vemynd Store](https://github.com/RicardoPBJ/Vemynd-Store)
+Este projeto é uma plataforma de e-commerce para venda de computadores. O objetivo é criar uma aplicação online completa e escalável, com foco em tecnologias modernas e facilidade de manutenção.
+
+#### [Portfólio](https://portfolio-ricardopbjs-projects.vercel.app/
+Meu portfólio pessoal, onde apresento meus projetos e habilidades. Desenvolvido com React.js, CSS, bootstrap e HTML.
+
+#### [Vemynd](https://vemynd.vercel.app/)
+Esta aplicação web front-end é um marketplace de produtos virtuais. Desenvolvida com Next.js Tailwind CSS.
+
+#### [Trybe Hotel](https://github.com/RicardoPBJ/trybe-hotel-d)
+Uma API back-end criada na Trybe com o objetivo de simular um sistema de gestão de hotel. Desenvolvida com C# ASP.NET.
+
+#### [Pokédex](https://react-testing-library-indol.vercel.app/)
+Esta aplicação web front-end é uma Pokédex criada na Trybe com o objetivo de aprimorar os conhecimentos com a react-testing-library. Desenvolvida com JavaScript, CSS e HTML.
+
+### Conecte-se comigo!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-pereira-dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RicardoPBJ)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ofcrbrum@gmail.com)
+
+### Estatísticas do GitHub
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoPBJ&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoPBJ&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Sou um Humano](https://img.shields.io/badge/Sou%20um-Humano-brightgreen)](https://www.reddit.com/r/totallynotrobots/)
+
+![GIF de um programador digitando](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+> "O único limite para a nossa realização de amanhã serão as nossas dúvidas de hoje." - Franklin D. Roosevelt

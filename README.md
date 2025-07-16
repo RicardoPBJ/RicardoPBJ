@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-pereira-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RicardoPBJ)
 
-### Olá! 👋
+### Olá! 
 
 Sou Ricardo, um desenvolvedor apaixonado por tecnologia e em constante evolução. Minha jornada no mundo da programação ganhou um novo capítulo em 2022, quando mergulhei de cabeça na **Trybe**. Lá, não só desenvolvi minhas habilidades técnicas, mas também aprendi a importância da colaboração e do trabalho em equipe para construir soluções incríveis.
 
